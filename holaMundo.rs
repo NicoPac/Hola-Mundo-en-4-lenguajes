@@ -1,7 +1,7 @@
 // Hola Mundo en Rust
 
 fn main() {
-    println!("Hola mundo en Rust!");
+    println!("Hola Mundo en Rust!");
 }
 
 
